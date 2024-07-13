@@ -8,3 +8,8 @@ They will do following tutorial and then extent it by making a small project, th
 Reference site:
 
 [JavaScript in 14 Minutes](https://jgthms.com/javascript-in-14-minutes/)
+
+# Members:- 
+- Warjot kaur
+- Japnoor kaur
+- Japman Kaur
