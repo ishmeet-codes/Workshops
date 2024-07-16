@@ -11,3 +11,5 @@ First come first serve:
 
 # Members:- 
 - Jasdeep Singh
+- Mantej Singh
+- Paramveer Singh Matharoo 
