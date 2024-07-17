@@ -16,3 +16,4 @@ Teach rest of us how to make docx, html, pdf, ebook from a MarkDown file using p
 - Harleen kaur itB
 - Kamaljeet Kaur (CSC)
 - Karmandeep Kaur (CSC)
+- Akshay chopra (ITA)
