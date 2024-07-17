@@ -9,3 +9,4 @@ Four students who have access to Linux:
 # Members:- 
 - Suhani Saluja
 - damanpreet kaur IT A
+- mankirat kaur
