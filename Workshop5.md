@@ -9,3 +9,4 @@ Install Debian 12.
 - Vabbav Bhateja
 - Tania
 - Navpreet Kaur
+- Jai kishan soni
