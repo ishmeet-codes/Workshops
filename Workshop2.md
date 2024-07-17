@@ -14,4 +14,4 @@ First come first serve:
 - Mantej Singh
 - Paramveer Singh Matharoo 
 - Khushpreet kaur
-- Rajbir kaur
+- 
