@@ -10,4 +10,5 @@ Four students who have access to Linux:
 - Suhani Saluja
 - damanpreet kaur IT A
 - khushi Gaba
-- Mankirat Kaur 
+- Mankirat Kaur
+- Jaskiran
