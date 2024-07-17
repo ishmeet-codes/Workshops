@@ -7,3 +7,4 @@ Four students who have access to Linux:
 [Make Novice](https://swcarpentry.github.io/make-novice/)
 
 # Members:- 
+- Suhani Saluja
