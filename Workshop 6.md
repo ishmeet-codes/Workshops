@@ -4,4 +4,4 @@ Making diagrams, flowcharts with mermaid markdown.
 
 Reference:
 
-![link](https://github.com/mermaid-js/mermaid)
+[link](https://github.com/mermaid-js/mermaid)
