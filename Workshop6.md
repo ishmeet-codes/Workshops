@@ -7,7 +7,7 @@ Reference:
 [link](https://github.com/mermaid-js/mermaid)
 
 # MEMBERS:- 
-- Mananpreet
+- Mananpreet (Workshop leader)
 - Rajpreet Kaur
 - Prabhjot Kaur
 - Sukhdeep Singh
