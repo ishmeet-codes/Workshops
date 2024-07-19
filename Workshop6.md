@@ -8,7 +8,7 @@ Reference:
 
 # MEMBERS:- 
 - Mananpreet (Workshop leader)
+- Ishika 
 - Rajpreet Kaur
 - Prabhjot Kaur
-- Sukhdeep Singh
 - Anmolpreet
