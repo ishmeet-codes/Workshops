@@ -10,8 +10,8 @@ Reference site:
 [JavaScript in 14 Minutes](https://jgthms.com/javascript-in-14-minutes/)
 
 # Members:- 
-- Warjot kaur
+- Taranpteet kaur
 - Japnoor kaur
 - Japman Kaur
 - Jasleen kaur
-- Dhruvjot Singh 
+- Dhruvjot Singh (leader)
