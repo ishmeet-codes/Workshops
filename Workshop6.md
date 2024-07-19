@@ -8,8 +8,8 @@ Reference:
 
 # MEMBERS:- 
 - Mananpreet (Workshop leader)
-- Ishika (waiting list)
-- Sukhdeep Singh
+- Ishika
+- Sukhdeep Singh (waiting list)
 - Rajpreet Kaur
 - Prabhjot Kaur
 - Anmolpreet
