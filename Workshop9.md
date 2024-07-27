@@ -6,3 +6,11 @@ Use: Jupyter Lab
 
 Reference: 
 [view](https://jupyter.org/)
+
+# Members:-
+
+- Anmolpreet Singh
+- Kirandeep 
+- Mantej 
+- Dhruvjot 
+- Karmandeep 
