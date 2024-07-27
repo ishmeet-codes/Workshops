@@ -12,5 +12,4 @@ Reference:
 - Anmolpreet Singh
 - Kirandeep 
 - Mantej 
-- Dhruvjot 
 - Karmandeep 
