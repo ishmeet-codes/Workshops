@@ -10,4 +10,4 @@ Four students who have access to Linux:
 - khushi Gaba
 - Mankirat 
 - Suhani
-- Dhruvjot Singh
+
