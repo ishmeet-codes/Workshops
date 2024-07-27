@@ -6,7 +6,5 @@ Install Debian 12.
 
 # Members:- 
 - Tajinder kaur
-- Vabbav Bhateja
 - Tania
 - Navpreet Kaur
-- Jai kishan soni
