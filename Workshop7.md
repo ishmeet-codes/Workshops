@@ -4,8 +4,6 @@ Present as if you have done it. You need to imperonate "Gilles Castel".
 [view](https://castel.dev/post/lecture-notes-1/)
 
 # Members:-
-- Sharandeep Kaur (leader)
-- Harpreet Kaur 
 - Kusum
 
 
